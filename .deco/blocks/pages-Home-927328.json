@@ -3,16 +3,12 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "Header",
+      "__resolveType": "site/sections/Header.tsx",
       "logo": {
-        "img": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/239/24edd1f7-15c7-4161-a888-0a747ab3f4c3",
-        "alt": "Personal Cloud Logo",
-        "width": 104,
-        "height": 104,
-        "link": "/"
+        "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/8d590ed3-85f6-40b3-a334-0e09cb220077/glare-loyalty-card-and-rewards-mobile-app-1.png"
       },
-      "title": "Personal Cloud",
-      "description": "Secure and reliable cloud storage for your personal data."
+      "title": "<p><mark data-color=\"#ab5be1\" style=\"background-color: #ab5be1; color: inherit\">Download Our App to Get Started</mark></p>",
+      "description": "<p>Apps available for Windows, Linux, MacOS, Android and iOS(coming soon).</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:support@doshare.me\"><u>Have another device, you'd like to connect with your Personal Cloud ? Let us know.</u></a></p>"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
