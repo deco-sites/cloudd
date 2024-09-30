@@ -1,1 +1,7 @@
-{ "__resolveType": "site/sections/Footer.tsx" }
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "text": "Privacy",
+  "href": "/privacy",
+  "text2": "Terms",
+  "text3": "Support"
+}
