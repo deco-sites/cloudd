@@ -10,7 +10,9 @@
     "descriptionTemplate": "%s",
     "type": "website",
     "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4959/294a9bca-e8f0-427c-baca-95fa8cf30207",
-    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4959/f9b953ba-0be5-46f8-82e8-5254235232ec"
+    "favicon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/5e2613f1-67b9-4e02-a326-f458a1f649be/favicon.ico",
+    "title": "Personal Cloud by DoShare",
+    "description": "Secure. Private and Fast"
   },
   "global": [
     {
