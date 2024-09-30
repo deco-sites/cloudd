@@ -7,8 +7,8 @@
       "logo": {
         "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/8d590ed3-85f6-40b3-a334-0e09cb220077/glare-loyalty-card-and-rewards-mobile-app-1.png"
       },
-      "title": "<p><mark data-color=\"#ab5be1\" style=\"background-color: #ab5be1; color: inherit\">Download Our App to Get Started</mark></p>",
-      "description": "<p>Apps available for Windows, Linux, MacOS, Android and iOS(coming soon).</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:support@doshare.me\"><u>Have another device, you'd like to connect with your Personal Cloud ? Let us know.</u></a></p>"
+      "title": "<p>Get your own Personal Vault in the Cloud</p><p> <strong>access, share and download</strong> </p><p>your files, memories and more</p><p> <strong>anytime from anywhere</strong>.</p><p><img src=\"https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/9bc85323-7bab-492b-bdb9-f45d12ac5ab2/3d-casual-life-moving-boxes-with-plant.png\"></p>",
+      "description": "<p>Without letting others eavesdrop🔐</p><p><u>Plans starting ₹15/mo for 50 GB unmetered storage</u></p>"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
