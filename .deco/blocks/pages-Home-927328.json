@@ -2,12 +2,33 @@
   "name": "Home",
   "path": "/",
   "sections": [
-    { "__resolveType": "Header" },
-    { "__resolveType": "site/sections/Social.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "site/sections/Image.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "Footer" }
+    {
+      "__resolveType": "Header",
+      "logo": {
+        "img": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/239/24edd1f7-15c7-4161-a888-0a747ab3f4c3",
+        "alt": "Personal Cloud Logo",
+        "width": 104,
+        "height": 104,
+        "link": "/"
+      },
+      "title": "Personal Cloud",
+      "description": "Secure and reliable cloud storage for your personal data."
+    },
+    {
+      "__resolveType": "site/sections/Social.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Image.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx"
+    },
+    {
+      "__resolveType": "Footer"
+    }
   ],
   "__resolveType": "website/pages/Page.tsx"
 }
