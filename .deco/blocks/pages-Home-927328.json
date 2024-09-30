@@ -15,7 +15,8 @@
       "section": {
         "__resolveType": "site/sections/Header.tsx",
         "logo": {
-          "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/251737ee-949c-4e19-924d-d4b6d63a251c/Unsplash-picture.jpg"
+          "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/251737ee-949c-4e19-924d-d4b6d63a251c/Unsplash-picture.jpg",
+          "link": "/"
         },
         "title": "<p>Don't miss out</p>",
         "description": "<p>Migrate your Data from</p><p>Google Drive . OneDrive . iCloud . Dropbox</p>"
@@ -78,7 +79,8 @@
         "title": "<p>Better way to organize <s>messy</s> files</p>",
         "description": "<p>With Auto-Tags and Workspaces (coming in October '24)</p>",
         "logo": {
-          "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/bd12d4b2-f31c-41d9-8cf2-f0a5e2e458fe/line-skateboard.png"
+          "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/bd12d4b2-f31c-41d9-8cf2-f0a5e2e458fe/line-skateboard.png",
+          "link": "/"
         }
       }
     },
@@ -96,7 +98,10 @@
         "title": "<p>Share your files easily</p>",
         "description": "<p>Fast Uploads , Downloads and Sharing</p><p style=\"text-align: center\">No limits uploads and downloads</p><p>Share your storage with family and friends</p><p></p>",
         "logo": {
-          "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/119258fb-d117-4f6d-adb3-ff3af3249556/grapy-flight-ticket.png"
+          "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/119258fb-d117-4f6d-adb3-ff3af3249556/grapy-flight-ticket.png",
+          "link": "/",
+          "width": 240,
+          "height": 100
         }
       }
     },
@@ -114,7 +119,8 @@
         "title": "<p>Affordable Plans for Your Needs</p>",
         "description": "<p>Pay only for the storage you require with customizable pricing</p>",
         "logo": {
-          "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/87254d66-1451-4f84-86af-e88c78dee2c9/line-departure-flight-board.png"
+          "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/cloudd/87254d66-1451-4f84-86af-e88c78dee2c9/line-departure-flight-board.png",
+          "link": "/"
         }
       }
     },
