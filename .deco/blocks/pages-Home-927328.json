@@ -47,28 +47,33 @@
       "__resolveType": "site/sections/Links.tsx",
       "links": [
         {
-          "label": "Download for MacOS (M-chip)",
-          "href": "https://dub.sh/doshare-on-mac-m"
-        },
-        {
-          "label": "Download for Linux",
-          "href": "https://dub.sh/doshare-on-linux"
+          "label": "Try in Browser",
+          "href": "https://cloud.doshare.me/auth/signup",
+          "icon": "ArrowLeft"
         },
         {
           "label": "Download for Windows(x64)",
           "href": "https://dub.sh/doshare-on-windows"
         },
         {
-          "label": "Download for Android",
-          "href": "https://dub.sh/doshare-on-android"
+          "label": "Download for MacOS (M-chip) (Release Available by 14 October '24)",
+          "href": "#"
+        },
+        {
+          "label": "Download for Linux (Release Available by 14 October '24)",
+          "href": "#"
+        },
+        {
+          "label": "Download for Android (Release Available by 10 October '24)",
+          "href": "#"
         },
         {
           "label": "Download for iOS (coming soon)",
-          "href": "about:blank"
+          "href": "#"
         },
         {
-          "label": "Download for Windows (arm64)",
-          "href": "https://dub.sh/doshare-on-arm"
+          "label": "Download for Windows (arm64) (Release Available by 14 October '24)",
+          "href": "#"
         }
       ]
     },
@@ -131,32 +136,32 @@
         "links": [
           {
             "label": "₹15 / 50 GB per mo",
-            "href": "-"
+            "href": "#"
           },
           {
             "label": "₹150 / 200 GB per mo",
-            "href": "-",
-            "icon": "ShoppingCart"
+            "icon": "ShoppingCart",
+            "href": "#"
           },
           {
             "label": "₹200 / 500 GB per mo",
-            "href": "-",
+            "href": "#",
             "icon": "ShoppingCart"
           },
           {
             "icon": "ArrowLeft",
             "label": "₹400 / 2TB per mo",
-            "href": "-"
+            "href": "#"
           },
           {
             "icon": "ArrowLeft",
             "label": "₹ 500/ 5TB per mo",
-            "href": "-"
+            "href": "#"
           },
           {
             "icon": "ArrowLeft",
             "label": "₹ 1500 / 10TB per mo",
-            "href": "-"
+            "href": "#"
           }
         ]
       }
