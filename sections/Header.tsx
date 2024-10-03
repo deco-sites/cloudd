@@ -24,7 +24,7 @@ export default function Header(
         "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/df52c7fe-cb9d-48a8-9652-7f6bf49737ee",
       link: "/",
     },
-    title = "Click here to tweak this text however you want.",
+    title = "Click here to tweak this text however you .",
     description = "This text is entirely editable, tailor it freely.",
   }: Props,
 ): JSX.Element | null {
