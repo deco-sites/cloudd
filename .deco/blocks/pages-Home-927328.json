@@ -49,13 +49,13 @@
         "__resolveType": "site/sections/Links.tsx",
         "links": [
           {
+            "label": "Download for Windows(x64)",
+            "href": "https://dub.sh/doshare-on-windows"
+          },
+          {
             "label": "Try in Browser",
             "href": "https://cloud.doshare.me/auth/signup",
             "icon": "ArrowLeft"
-          },
-          {
-            "label": "Download for Windows(x64)",
-            "href": "https://dub.sh/doshare-on-windows"
           },
           {
             "label": "Download for MacOS (M-chip) (Release Available by 14 October '24)",
