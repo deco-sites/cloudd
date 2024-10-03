@@ -44,38 +44,41 @@
       ]
     },
     {
-      "__resolveType": "site/sections/Links.tsx",
-      "links": [
-        {
-          "label": "Try in Browser",
-          "href": "https://cloud.doshare.me/auth/signup",
-          "icon": "ArrowLeft"
-        },
-        {
-          "label": "Download for Windows(x64)",
-          "href": "https://dub.sh/doshare-on-windows"
-        },
-        {
-          "label": "Download for MacOS (M-chip) (Release Available by 14 October '24)",
-          "href": "#"
-        },
-        {
-          "label": "Download for Linux (Release Available by 14 October '24)",
-          "href": "#"
-        },
-        {
-          "label": "Download for Android (Release Available by 10 October '24)",
-          "href": "#"
-        },
-        {
-          "label": "Download for iOS (coming soon)",
-          "href": "#"
-        },
-        {
-          "label": "Download for Windows (arm64) (Release Available by 14 October '24)",
-          "href": "#"
-        }
-      ]
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Links.tsx",
+        "links": [
+          {
+            "label": "Try in Browser",
+            "href": "https://cloud.doshare.me/auth/signup",
+            "icon": "ArrowLeft"
+          },
+          {
+            "label": "Download for Windows(x64)",
+            "href": "https://dub.sh/doshare-on-windows"
+          },
+          {
+            "label": "Download for MacOS (M-chip) (Release Available by 14 October '24)",
+            "href": "#"
+          },
+          {
+            "label": "Download for Linux (Release Available by 14 October '24)",
+            "href": "#"
+          },
+          {
+            "label": "Download for Android (Release Available by 10 October '24)",
+            "href": "#"
+          },
+          {
+            "label": "Download for iOS (coming soon)",
+            "href": "#"
+          },
+          {
+            "label": "Download for Windows (arm64) (Release Available by 14 October '24)",
+            "href": "#"
+          }
+        ]
+      }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
