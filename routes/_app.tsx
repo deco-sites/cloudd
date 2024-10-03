@@ -15,6 +15,8 @@ export default defineApp(async (_req, ctx) => {
       <Head>
         {/* Enable View Transitions API */}
         <meta name="view-transition" content="same-origin" />
+<script defer data-domain="getcloud.doshare.me" src="https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.tagged-events.js"></script>
+<script>window.plausible = window.plausible || </script>
 
         {/* Tailwind v3 CSS file */}
         <link
